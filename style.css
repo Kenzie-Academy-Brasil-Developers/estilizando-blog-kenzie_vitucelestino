@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+body {
+
+    background-image: url(https://static.tumblr.com/a516dafb69ad1a94d976b0525dc6f80a/uqpwlfp/GBsodmlar/tumblr_static_10t94g5f9fi840oo04oscg0oo.jpg);
+    background-repeat: repeat;
+    background-position: center center;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+    
+main {
+
+    display:flex;
+    justify-content: center;
+}
+
+h2 {
+
+    font-family: Roboto;
+}
+
+.radius {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.border {
+
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+    margin: 10px;
+    background-color: #090909;
+    opacity: 0.95;
+    color: #aaa;
+    border-radius: 15px 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Roboto;
+    box-shadow: 2px 2px 5px 0px rgb(0 0 0 / 50%), 0px 0px 0px 1px #000000;
+
+}
+
+.fontetitulo {
+
+    margin-top: 100px;
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Roboto;
+        
+}
+
+footer {
+
+    display:flex;
+    justify-content: center;
+}
+
+.caixa {
+
+    width: 1500px;
+    height: 200px;
+    padding: 40px;
+    margin: 10px;
+    background-color: #090909;
+    opacity: 0.95;
+    color: #aaa;
+    border-radius: 15px 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Roboto;
+    font-size: 25px;
+    box-shadow: 2px 2px 5px 0px rgb(0 0 0 / 50%), 0px 0px 0px 1px #000000;
+   
+}
+
