@@ -86,3 +86,10 @@ footer {
    
 }
 
+.inputs {
+
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px; 
+}
